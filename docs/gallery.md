@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 451。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 453。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-451](./gallery-part-2.md)
+- [Part 2：例 166-453](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -119,11 +119,13 @@
 - [例 449：奢华机械腕表技术图鉴](./gallery-part-2.md#case-449)
 - [例 450：烛光侧室写实摄影](./gallery-part-2.md#case-450)
 - [例 451：韩国海滩日落时尚人像](./gallery-part-2.md#case-451)
+- [例 452：极简童话手绘儿童插画](./gallery-part-2.md#case-452)
+- [例 453：企业级商用画册视觉系统](./gallery-part-2.md#case-453)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-451，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-453，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
@@ -134,11 +136,11 @@
 - 品牌与标志：22
 - 建筑与空间：11
 - 摄影与写实：57
-- 插画与艺术：44
+- 插画与艺术：45
 - 人物与角色：21
 - 场景与叙事：17
 - 历史与古风题材：16
-- 文档与出版物：9
+- 文档与出版物：10
 - 其他应用场景：28
 
 ## 分类案例入口
@@ -481,7 +483,7 @@
 
 <a name="cat-illustration"></a>
 
-### 🎨 插画与艺术 · 44 cases
+### 🎨 插画与艺术 · 45 cases
 
 - [例 6：插画艺术创作图](./gallery-part-1.md#case-6)
 - [例 22：插画艺术风格创作](./gallery-part-1.md#case-22)
@@ -528,6 +530,7 @@
 - [例 442：舒适发廊插画](./gallery-part-2.md#case-442)
 - [例 445：旅游照水墨明信片](./gallery-part-2.md#case-445)
 - [例 446：低多边形纸艺男士肖像](./gallery-part-2.md#case-446)
+- [例 452：极简童话手绘儿童插画](./gallery-part-2.md#case-452)
 
 <a name="cat-character"></a>
 
@@ -600,7 +603,7 @@
 
 <a name="cat-document"></a>
 
-### 📚 文档与出版物 · 9 cases
+### 📚 文档与出版物 · 10 cases
 
 - [例 13：信息图可视化设计](./gallery-part-1.md#case-13)
 - [例 119：主题海报版式设计](./gallery-part-1.md#case-119)
@@ -611,6 +614,7 @@
 - [例 266：桌面上的黑色圆珠笔手写笔记](./gallery-part-2.md#case-266)
 - [例 293：聚焦人工智能的校园日报](./gallery-part-2.md#case-293)
 - [例 303：人教版三年级语文课本内页](./gallery-part-2.md#case-303)
+- [例 453：企业级商用画册视觉系统](./gallery-part-2.md#case-453)
 
 <a name="cat-other"></a>
 

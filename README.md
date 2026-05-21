@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-451-blueviolet?style=flat-square" alt="Cases"></a>
+  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-453-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
 </p>
 
@@ -50,7 +50,7 @@ The core goal is simple: compress prose-style prompts into structured protocols.
 
 - [Full case gallery](docs/gallery.md)
 - [Gallery Part 1: cases 1-165](docs/gallery-part-1.md)
-- [Gallery Part 2: cases 166-451](docs/gallery-part-2.md)
+- [Gallery Part 2: cases 166-453](docs/gallery-part-2.md)
 - [Industrial prompt templates and pitfalls guide](docs/templates.md)
 - [Agent skill: GPT-Image2 Style Library](agents/skills/gpt-image-2-style-library/SKILL.md)
 - [MIT License](LICENSE)
@@ -111,7 +111,7 @@ Start with the case album to find a visual direction, then open the prompt templ
       <a href="docs/gallery.md#cat-photo"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🎨 Illustration & Art</strong><br><sub>44 cases</sub></p>
+      <p><strong>🎨 Illustration & Art</strong><br><sub>45 cases</sub></p>
       <a href="docs/gallery.md#cat-illustration"><img src="data/images/category-covers/illustration.jpg" alt="Illustration and art" width="220"></a><br>
       <sub>Illustration, art styles, material experiments, and decorative images.</sub><br>
       <a href="docs/gallery.md#cat-illustration"><strong>View Cases</strong></a>
@@ -137,7 +137,7 @@ Start with the case album to find a visual direction, then open the prompt templ
       <a href="docs/gallery.md#cat-history"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>📚 Documents & Publishing</strong><br><sub>9 cases</sub></p>
+      <p><strong>📚 Documents & Publishing</strong><br><sub>10 cases</sub></p>
       <a href="docs/gallery.md#cat-document"><img src="data/images/category-covers/document.jpg" alt="Documents and publishing" width="220"></a><br>
       <sub>White papers, manuals, encyclopedic plates, and publishing layouts.</sub><br>
       <a href="docs/gallery.md#cat-document"><strong>View Cases</strong></a>
@@ -153,14 +153,14 @@ Start with the case album to find a visual direction, then open the prompt templ
     <td width="33%" valign="top" align="center">
       <h4>🖼️ Full Gallery</h4>
       <a href="docs/gallery.md"><img src="data/images/category-covers/gallery.jpg" alt="Full gallery" width="220"></a><br>
-      <sub>Browse all 451 cases by gallery part and category.</sub><br>
+      <sub>Browse all 453 cases by gallery part and category.</sub><br>
       <a href="docs/gallery.md"><strong>Open Gallery</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⭐ Latest Additions</h4>
-      <a href="docs/gallery-part-2.md#case-451"><img src="data/images/case451.jpg" alt="Latest additions" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#case-453"><img src="data/images/case453.jpg" alt="Latest additions" width="220"></a><br>
       <sub>The newest community cases and workflows collected in the repo.</sub><br>
-      <a href="docs/gallery-part-2.md#case-451"><strong>View Latest</strong></a>
+      <a href="docs/gallery-part-2.md#case-453"><strong>View Latest</strong></a>
     </td>
   </tr>
 </table>
@@ -427,11 +427,17 @@ Only the latest collection and import run is shown here. Older imports stay in t
 
 <table>
   <tr>
-    <td width="100%" valign="top" align="center">
-      <p><strong>Case 451: Korean Beach Sunset Fashion Portrait</strong></p>
-      <a href="docs/gallery-part-2.md#case-451"><img src="data/images/case451.jpg" alt="Korean beach sunset fashion portrait" width="180"></a><br>
-      <sub>A warm DSLR-style beach sunset portrait prompt with mature Korean fashion aesthetics, soft glow, and vertical lifestyle framing.</sub><br>
-      <a href="docs/gallery-part-2.md#case-451"><strong>View Case</strong></a>
+    <td width="50%" valign="top" align="center">
+      <p><strong>Case 452: Minimal Fairy-Tale Hand-Drawn Illustration</strong></p>
+      <a href="docs/gallery-part-2.md#case-452"><img src="data/images/case452.jpg" alt="Minimal fairy-tale hand-drawn illustration" width="160"></a><br>
+      <sub>A soft nursery-postcard transformation prompt with thin hand-drawn lines, pastel texture, and doll-like proportions.</sub><br>
+      <a href="docs/gallery-part-2.md#case-452"><strong>View Case</strong></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <p><strong>Case 453: Enterprise Brochure Visual System</strong></p>
+      <a href="docs/gallery-part-2.md#case-453"><img src="data/images/case453.jpg" alt="Enterprise brochure visual system" width="160"></a><br>
+      <sub>A commercial brochure system prompt for covers, product pages, application scenes, case pages, and full-book preview.</sub><br>
+      <a href="docs/gallery-part-2.md#case-453"><strong>View Case</strong></a>
     </td>
   </tr>
 </table>
